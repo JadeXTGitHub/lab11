@@ -146,7 +146,7 @@ form { display: inline-block;
 	<h2>My Favorite Quote</h2>
 	  <blockquote>&quot;Tell me and I forget. Teach me and I remember. Involve me and I learn.&quot; –Benjamin Franklin </blockquote>
 	  
-	  <h3> Here is a son my son wrote</h3>
+	  <h3> Here is a song my son wrote</h3>
 	  <audio controls="controls">
 		<source src="HMR.mp3" type="audio/mpeg">
 		<a href="HMR.mp3">Play a song by my son</a> (MP3)
